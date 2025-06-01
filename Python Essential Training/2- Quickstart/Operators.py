@@ -1,0 +1,23 @@
+print("Value operators")
+print(1+1)
+print(4 *5)
+print(5 **2)
+print(20/5)
+print(20/6)
+
+print("String operators")
+print('string 1' + 'string 2')
+print('- string 1-' + '-string 2-')
+print('- string 1-' * 4)
+
+print("True and false operators") 
+print(1 > 2)
+print(2 < 1)
+print(True and False)
+print(True and True)
+print(False and False) # This is true
+print(not True)
+print(not False)
+print(1 in [1,2,3,4])
+print(10 in [10,9,8,7,6,])
+print("True and False: ",(True and False))
